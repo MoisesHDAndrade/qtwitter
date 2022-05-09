@@ -1,6 +1,6 @@
 # Quasar App (qtwitter)
 
-A Quasar Project
+Twitter clone using Quasar Framework
 
 ## Install the dependencies
 ```bash
